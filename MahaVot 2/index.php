@@ -34,7 +34,7 @@
                 <ul class="nav nav-justified">
                     <li class="active"><a href="index.html">Home</a></li>
                     <li><a href="register.html">Register <i class="fa fa-registered" aria-hidden="true"></i></i></a></li>
-                    <li><a href="help.html">Help <i class="fa fa-question-circle" aria-hidden="true"></i></a></li>
+                    <li><a href="help.php">Help <i class="fa fa-question-circle" aria-hidden="true"></i></a></li>
                     <li><a href="voteverification.html">Votting</a></li>
                     <li><a href="#">About</a></li>
            </nav>
